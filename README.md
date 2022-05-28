@@ -5,9 +5,9 @@ Repositório criado para o desafio do Projeto.
  <img src="https://img.shields.io/static/v1?label=git&message=Version%20System&color=orange&style=for-the-badge&logo=GIT"/>
  <img src="https://img.shields.io/static/v1?label=gihub&message=Rpository&color=orange&style=for-the-badge&logo=GITHUB"/>
  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
- <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+ <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge"/>
  
-> Status do Projeto: :heavy_check_mark: :warning: (em desenvolvimento)
+> Status do Projeto: :heavy_check_mark: :warning: (Finalizado)
 
 ...
   
